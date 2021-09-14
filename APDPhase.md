@@ -1,3 +1,7 @@
+# Introduction
+I'm writing this sheet to preform a map of how we want to develope our xerox application. This is the big picture of Xerox Application development strategy.
+
+
 # Phase one | 1
 The starter of project to handle simple and essential functionality.
 
@@ -39,8 +43,13 @@ We need to preform user friendly way for users to submit their print order & it'
 * User activation on first order submit.
 * User registration on any order submit that comes from `gests`.
 
+<br> </br>
 # Phase Two | 2
 Very important phase to xerox application. We will engage to a big verity of functionality.
+
+## Discount packages
+* Way to applying the discount package to user.
+
 ## Thesis
 * Upload thesis file.
 * Select thesis binding type.
@@ -53,3 +62,20 @@ Very important phase to xerox application. We will engage to a big verity of fun
 * Pay the orders price with bank cart.
 * Pay the orders price with internal wallet.
 * Mixed payment system : `if there is any thing left from previous discount package we will try to reduce it from order price and the user most pay the balance`.
+
+## SHARED
+* Define reusable component to display booklets.
+
+## Order delivery
+* Angular reusable component for order delivery system.
+* Local & fast delivery system in `Isfahan` With an additional price.
+* Add `setting` to control when the delivery price is free.
+
+<br></br>
+# Phase three | 3
+This phase is very last phase of xerox application development. Completed every thing defined & agreed between `Development team` & `Customers` except telegram bot.
+
+## Booklet center
+* Filtration with defined filters with a very user friendly system.
+* Infinite loading implementation.
+* Ability to search in booklets.
