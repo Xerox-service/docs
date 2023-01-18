@@ -14,5 +14,6 @@ Different orders have different ways to mark theme as done. you can read more in
 
 ## Thsis edit order.
 	- Give them their price.
-	- Submit their button.
+	- Get the order inside payment basket.
+	- Click on done and upload the file.
 
